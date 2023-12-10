@@ -1,0 +1,131 @@
+﻿  Oj.cpp
+  oj2.cpp
+  二叉树的非递归遍历2.cpp
+C:\Users\26567\source\repos\Project1\Project1\二叉树的非递归遍历2.cpp(4,16): error C2059: 语法错误:“常数”
+C:\Users\26567\source\repos\Project1\Project1\二叉树的非递归遍历2.cpp(4,28): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\26567\source\repos\Project1\Project1\二叉树的非递归遍历2.cpp(4,28): error C2059: 语法错误:“}”
+  删除字串.cpp
+C:\Users\26567\source\repos\Project1\Project1\删除字串.cpp(10,5): error C3861: “gets”: 找不到标识符
+C:\Users\26567\source\repos\Project1\Project1\删除字串.cpp(19,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  加强密码.cpp
+C:\Users\26567\source\repos\Project1\Project1\加强密码.cpp(10,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  十进制转二进制.cpp
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(124,5): error C2084: 函数“int main(void)”已有主体
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(9,5): message : 参见“main”的前一个定义
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(146,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(149,19): error C2065: “SeqStack”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(149,28): error C2146: 语法错误: 缺少“)”(在标识符“S”的前面)
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(151,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(151,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(156,15): error C2065: “SeqStack”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(156,25): error C2065: “S”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(156,28): error C2062: 意外的类型“int”
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(158,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(158,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(172,14): error C2065: “SeqStack”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(172,24): error C2065: “S”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(172,27): error C2062: 意外的类型“int”
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(174,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(174,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(188,14): error C2065: “SeqStack”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(188,24): error C2065: “S”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(188,27): error C2062: 意外的类型“int”
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(190,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(190,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(206,5): error C2065: “SeqStack”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(206,15): error C2065: “S”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(206,20): error C2065: “SeqStack”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(206,29): error C2059: 语法错误:“)”
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(216,23): error C2065: “S”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(220,12): error C2065: “S”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(222,23): error C2065: “S”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(227,1): error C2556: “void main(void)”: 重载函数与“int main(void)”只是在返回类型上不同
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(124,5): message : 参见“main”的声明
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(228,5): error C2065: “SeqStack”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(228,15): error C2065: “myS”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(228,22): error C2065: “SeqStack”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(228,31): error C2059: 语法错误:“)”
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(229,19): error C2065: “myS”: 未声明的标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(229,5): error C3861: “StackInitiate”: 找不到标识符
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(232,1): warning C4138: 在注释外找到“*/”
+C:\Users\26567\source\repos\Project1\Project1\十进制转二进制.cpp(232,2): error C2059: 语法错误:“/”
+  哈夫曼树.cpp
+  哈夫曼树与哈夫曼编码.cpp
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(88,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(95,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(107,17): error C2131: 表达式的计算结果不是常数
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(107,17): message : 因读取超过生命周期的变量而失败
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(107,17): message : 请参见“n”的用法
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(110,9): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(110,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(110,9): message : 缺失的可变参数 1 为格式字符串“%c”所需
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(115,9): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(115,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(115,9): message : 缺失的可变参数 1 为格式字符串“%d”所需
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(126,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(126,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+C:\Users\26567\source\repos\Project1\Project1\哈夫曼树与哈夫曼编码.cpp(126,10): message : 缺失的可变参数 1 为格式字符串“%c”所需
+  字符串的长度.cpp
+C:\Users\26567\source\repos\Project1\Project1\字符串的长度.cpp(9,5): error C3861: “gets”: 找不到标识符
+  字符串连接.cpp
+  带头结点的链队列的基本操作.cpp
+C:\Users\26567\source\repos\Project1\Project1\带头结点的链队列的基本操作.cpp(64,9): error C3861: “QueueInsert”: 找不到标识符
+C:\Users\26567\source\repos\Project1\Project1\带头结点的链队列的基本操作.cpp(68,5): error C3861: “QueueDelete”: 找不到标识符
+C:\Users\26567\source\repos\Project1\Project1\带头结点的链队列的基本操作.cpp(70,5): error C3861: “QueueDelete”: 找不到标识符
+C:\Users\26567\source\repos\Project1\Project1\带头结点的链队列的基本操作.cpp(70,26): error C3861: “QueueDelete”: 找不到标识符
+  循环队列操作集.cpp
+  插入字串.cpp
+  替换字串.cpp
+C:\Users\26567\source\repos\Project1\Project1\替换字串.cpp(13,5): error C3861: “gets”: 找不到标识符
+C:\Users\26567\source\repos\Project1\Project1\替换字串.cpp(30,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  构造哈夫曼树.cpp
+  构造哈夫曼树2.cpp
+C:\Users\26567\source\repos\Project1\Project1\构造哈夫曼树2.cpp(35,14): error C2131: 表达式的计算结果不是常数
+C:\Users\26567\source\repos\Project1\Project1\构造哈夫曼树2.cpp(35,12): message : 因读取超过生命周期的变量而失败
+C:\Users\26567\source\repos\Project1\Project1\构造哈夫曼树2.cpp(35,12): message : 请参见“n”的用法
+C:\Users\26567\source\repos\Project1\Project1\构造哈夫曼树2.cpp(36,15): error C2131: 表达式的计算结果不是常数
+C:\Users\26567\source\repos\Project1\Project1\构造哈夫曼树2.cpp(36,13): message : 因读取超过生命周期的变量而失败
+C:\Users\26567\source\repos\Project1\Project1\构造哈夫曼树2.cpp(36,13): message : 请参见“m”的用法
+C:\Users\26567\source\repos\Project1\Project1\构造哈夫曼树2.cpp(41,8): warning C4552: ”>>“: 未使用表达式结果
+  查找字符.cpp
+C:\Users\26567\source\repos\Project1\Project1\查找字符.cpp(13,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\26567\source\repos\Project1\Project1\查找字符.cpp(13,16): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\26567\source\repos\Project1\Project1\查找字符.cpp(13,16): message : 请考虑在格式字符串中使用“%Id”
+C:\Users\26567\source\repos\Project1\Project1\查找字符.cpp(13,16): message : 请考虑在格式字符串中使用“%I64d”
+  检查密码.cpp
+C:\Users\26567\source\repos\Project1\Project1\检查密码.cpp(10,3): error C3861: “gets”: 找不到标识符
+C:\Users\26567\source\repos\Project1\Project1\检查密码.cpp(11,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  符号配对.cpp
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(7,17): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(7,17): warning C4305: “初始化”: 从“int”到“char”截断
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(7,17): warning C4309: “初始化”: 截断常量值
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(8,17): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(8,17): warning C4305: “初始化”: 从“int”到“char”截断
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(8,17): warning C4309: “初始化”: 截断常量值
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(11,9): error C2660: “fgets”: 函数不接受 0 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(198,28): message : 参见“fgets”的声明
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(11,9): message : 尝试匹配参数列表“()”时
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(11,16): error C2446: “!=”: 没有从“int”到“char *”的转换
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(11,18): message : 从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(50,5): error C2561: “main”: 函数必须返回值
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(3,5): message : 参见“main”的声明
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(59,5): error C2561: “main”: 函数必须返回值
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(3,5): message : 参见“main”的声明
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(64,5): error C2561: “main”: 函数必须返回值
+C:\Users\26567\source\repos\Project1\Project1\符号配对.cpp(3,5): message : 参见“main”的声明
+  统计二叉树叶子结点个数.cpp
+  正在生成代码...
+C:\Users\26567\source\repos\Project1\Project1\插入字串.cpp(25): error C4700: 使用了未初始化的局部变量“cnt”
+C:\Users\26567\source\repos\Project1\Project1\oj2.cpp(133): error C4700: 使用了未初始化的局部变量“res”
+  正在编译...
+  草稿.cpp
+C:\Users\26567\source\repos\Project1\Project1\草稿.cpp(36,5): error C2084: 函数“int main(void)”已有主体
+C:\Users\26567\source\repos\Project1\Project1\草稿.cpp(26,5): message : 参见“main”的前一个定义
+C:\Users\26567\source\repos\Project1\Project1\草稿.cpp(40,5): error C3861: “get_s”: 找不到标识符
+C:\Users\26567\source\repos\Project1\Project1\草稿.cpp(43,23): error C2065: “j”: 未声明的标识符
+  过生日（字符串）.cpp
+C:\Users\26567\source\repos\Project1\Project1\过生日（字符串）.cpp(12,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  采用邻接表创建无向图.cpp
+C:\Users\26567\source\repos\Project1\Project1\采用邻接表创建无向图.cpp(28,1): error C2059: 语法错误:“}”
+  正在生成代码...
+C:\Users\26567\source\repos\Project1\Project1\过生日（字符串）.cpp(7): error C4700: 使用了未初始化的局部变量“t”
